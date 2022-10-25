@@ -1,0 +1,172 @@
+{
+  "productos": [
+    {
+      "id": 0,
+      "nombre": "Mouse inalambrico Generico",
+      "descripcion": "Mouese inalambrico para tu día a día.",
+      "precio": "50.000",
+      "cantidad": "12",
+      "imagen": "https://imgs.search.brave.com/kwWGoB1w2-eAZTSJBlAn2PjsUmNDYlXl-cceKZdic38/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9leGl0/b2NvbC52dGV4YXNz/ZXRzLmNvbS9hcnF1/aXZvcy9pZHMvNDEy/NDM0L21pbmktbW91/c2Utb3B0aWNvLXBh/cmEtcGMtcG9ydGF0/aWwtZ3Jpcy5qcGc_/dj02MzcwMDk5NzE2/MDU4MDAwMDA"
+    },
+    {
+      "id": 1,
+      "nombre": "iPhone 14 Pro Max",
+      "descripcion": "iPhone 14 Pro Max, para subir de nivel",
+      "precio": "7'500.000",
+      "cantidad": "54",
+      "imagen": "https://imgs.search.brave.com/phMc8b8Dj-kEqYmjOw4Hlkhj-qJ2wtQHRu_clgeZ20U/rs:fit:600:600:1/g:ce/aHR0cHM6Ly9kZWFs/bnRlY2hjZG4uYi1j/ZG4ubmV0L3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIxLzA2L0Fw/cGxlLWlQaG9uZS0x/NC1Qcm8tTWF4LXJl/cHJlc2VudHMuanBn"
+    },
+    {
+      "id": 2,
+      "nombre": "Audifonos Beats",
+      "descripcion": "Audifonos Beats, para que disfrutes tu música a tu manera",
+      "precio": "780.00",
+      "cantidad": "3",
+      "imagen": "https://imgs.search.brave.com/i477FRtjVpNtIOVA0Q4mMJCjFwlKjty7q0kEI9huMB0/rs:fit:742:1000:1/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vYXVkaWZvbm9z/LWJlYXRzLWJ5LWRy/LWRyZS1zdHVkaW8z/LXNoYWRvdy1ncmF5/LURfTlFfTlBfNjY2/NzE3LU1MTTI2NzIw/NzA5NTg1XzAxMjAx/OC1GLmpwZw"
+    },
+    {
+      "id": 3,
+      "nombre": "Teclado Toshiba",
+      "descripcion": "Con el Teclado Toshiba serás un maestro del juego",
+      "precio": "150.00",
+      "cantidad": "7",
+      "imagen": "https://imgs.search.brave.com/EpCqR4JTwvBbh2E2xsLHsmj_742Lmrltgq5z5UII9eI/rs:fit:1200:674:1/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vdGVjbGFkby10/b3NoaWJhLWw2MzUt/c3AzMTYwbS1uZWdy/by1lc3Bhbm9sLW1t/dS1EX05RX05QXzI2/MDEtTUxNMjY2MzE3/NjQyM18wNTIwMTIt/Ri5qcGc"
+    },
+    {
+      "id": 4,
+      "nombre": "Apple Watch SE",
+      "descripcion": "Lleva el ritmo de tu cuerpo con el nuevo Apple Watch SE",
+      "precio": "1'150.000",
+      "cantidad": "68",
+      "imagen": "https://imgs.search.brave.com/y_HTrEp8Zw0cpxv0QPmaWTZ_gBEco5nkkjshRpHqHF8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/YmhwaG90b3ZpZGVv/LmNvbS9pbWFnZXMv/aW1hZ2VzMjUwMHgy/NTAwL2FwcGxlX215/ZHQybGxfYV93YXRj/aF9zZV9ncHNfNDRt/bV8xNTk0NTYyLmpw/Zw"
+    },
+    {
+      "id": 5,
+      "nombre": "Airpods Pro 2",
+      "descripcion": "Alejate de los problemas con los nuevos Airpods Pro 2.",
+      "precio": "1'390.000",
+      "cantidad": "10",
+      "imagen": "https://imgs.search.brave.com/Ny6epbKChQz2eWCbAF9vXVBa3D4EVGC_rFnyVcff6lw/rs:fit:1200:1074:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuZXZlcnlleWUu/aXQvaW1nLW5vdGl6/aWUvYWlycG9kcy1w/cm8tYWlycG9kcy0y/LW9mZmVydGEtdW5p/ZXVyby13ZWVrZW5k/LXYzLTQ3NjU4NC5q/cGc"
+    },
+    {
+      "id": 6,
+      "nombre": "Roomba Robot",
+      "descripcion": "¿Estás aburrido de tener que limpiar tu casa todos los días? El nuevo Roomba Robot es la solución a tus problemas.",
+      "precio": "720.00",
+      "cantidad": "32",
+      "imagen": "https://imgs.search.brave.com/vhl3zdNEYtf_kE32wStu9B8nbZlb0a-szCLe59HW_FQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9tZWRp/YTEub2N1Lm9yZy9p/bWFnZXMvMEU3NTND/NjYwODExNTE4NDc1/M0ZFMkRGMzNGQjE0/NDJDNzVEOERCMy9j/NC9Sb2JvdHMtYXNw/aXJhZG9yZXMtSVJP/Qk9ULVJPT01CQS02/MDQtem9vbS5qcGc"
+    },
+    {
+      "id": 7,
+      "nombre": "Televisor Samsung 55''",
+      "descripcion": "Teletransportate a  nuevos mundos con el nuevo Televisor Samsung 55''",
+      "precio": "850.00",
+      "cantidad": "7",
+      "imagen": "https://imgs.search.brave.com/dZfl8J6bzboSt09s1nzyFzWLyZqGJDTsnksmRqOoWpY/rs:fit:1200:1200:1/g:ce/aHR0cDovL2ltYWdl/cy5zYW1zdW5nLmNv/bS9pcy9pbWFnZS9z/YW1zdW5nL2hrLWVu/X1VBNTVKUzgwMDBK/WFpLXzAxN19TaWx2/ZXJfc2lsdmVyPyRM/MS1UaHVtYm5haWwk"
+    },
+    {
+      "id": 8,
+      "nombre": "Macbook Air M2",
+      "descripcion": "Iniciate en el mundo Apple con la nueva Macbook Air M2",
+      "precio": "6'250.000",
+      "cantidad": "15",
+      "imagen": ""
+    },
+    {
+      "id": 9,
+      "nombre": "Macbook Pro M1",
+      "descripcion": "Iniciate en el mundo Apple con la nueva Macbook Pro M1",
+      "precio": "8'350.000",
+      "cantidad": "7",
+      "imagen": "https://imgs.search.brave.com/pbia_eF7Zv7WpH92LxZlPo_wLUxkyLNawajfQG84UYA/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly91bmNy/YXRlLmNvbS9wLzIw/MjAvMTEvYXBwbGUt/c2lsaWNvbi1tYWNi/b29rLXByby0xMy5q/cGc"
+    },
+    {
+      "id": 10,
+      "nombre": "HomePod Mini",
+      "descripcion": "Escucha música sin limites con el HomePod mini de Apple",
+      "precio": "2'500.000",
+      "cantidad": "2",
+      "imagen": "https://imgs.search.brave.com/dNh9KfnOYhexyRTSO5OWhZdjiop_zbuWaYiaJQEfC7c/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMudGVjaHNwb3Qu/Y29tL2ltYWdlcy9w/cm9kdWN0cy8yMDIw/L2xvdWRzcGVha2Vy/cy9vcmcvMjAyMC0x/MS0xMi1wcm9kdWN0/LTIuanBn"
+    },
+    {
+      "id": 11,
+      "nombre": "Amazon Alexa",
+      "descripcion": "La asistente virtual que puede cambiar tu vida, compra la nueva Alexa y atrevete a vivir la experiencia",
+      "precio": "450.000",
+      "cantidad": "20",
+      "imagen": "https://imgs.search.brave.com/R-Gwpilk6xwVPE6vP9ZY4pB0yYTg_rOIvAln_Id7KfQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9saW1v/dGEudm4vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTkvMDIvQW1h/em9uLUFsZXhhLUVj/aG8tRG90LTJuZC5w/bmc"
+    },
+    {
+      "id": 12,
+      "nombre": "Play Station 5",
+      "descripcion": "Con la nueva Play Station 5, el tiempo para jugar ya no será un problema",
+      "precio": "4'340.000",
+      "cantidad": "13",
+      "imagen": "https://imgs.search.brave.com/U3ZoVOnvM2a4WvAegCUJPppsWL6Kp0QpzlCdrPYnATM/rs:fit:1200:800:1/g:ce/aHR0cHM6Ly9tYXJ2/aW4uY29tLm14L3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDIwLzEx/L3BsYXktc3RhdGlv/bi01LWxsZWdhLWEt/bWV4aWNvLTIwMjAt/My5qcGc"
+    },
+    {
+      "id": 13,
+      "nombre": "Mouse Inalambrico Logitech",
+      "descripcion": "¿Sientes que no  disparas lo suficientemente rápido en Fornite? Cambia eso con el nuevo Mouse Inalambrico de Logitech",
+      "precio": "120.000",
+      "cantidad": "10",
+      "imagen": "https://imgs.search.brave.com/AO1qCK9fBk9Zr1ZAIIJ8SeMNIktjmycdmyYOxOUp1-c/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9tbHN0/YXRpY3F1aWMtYS5h/a2FtYWloZC5uZXQv/bW91c2UtaW5hbGFt/YnJpY28tZzYwMy1s/b2dpdGVjaC0xMjAw/MC1kcGktbGlnaHRz/cGVlZC02LWJvdC1E/X05RX05QXzgyMjQz/NC1NTFUyOTUyNDU0/Nzk4Nl8wMjIwMTkt/Ri5qcGc"
+    },
+    {
+      "id": 14,
+      "nombre": "Airpods Max",
+      "descripcion": "El ruido con los nuevos Airpods Max ya no será un problema.",
+      "precio": "1'465.000",
+      "cantidad": "1",
+      "imagen": "https://imgs.search.brave.com/8Q4t_x-PJhCSTnFCEULLdZ22v3o2yAbqZRyBc3lSDbg/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9zdGF0/aWMudGVjaHNwb3Qu/Y29tL2ltYWdlcy9w/cm9kdWN0cy8yMDIw/L2hlYWRwaG9uZXMv/b3JnLzIwMjAtMTIt/MTAtcHJvZHVjdC01/LmpwZw"
+    },
+    {
+      "id": 15,
+      "nombre": "Teclado VSG - Mintaka",
+      "descripcion": "Cambia tus sensaciones con el nuevo Teclado VSG - Mintaka y ve más allá",
+      "precio": "160.000",
+      "cantidad": "43",
+      "imagen": "https://imgs.search.brave.com/S5U8jY-vwKqopG8EtmCc-wtSedfoE01ENftORaPw04Y/rs:fit:768:768:1/g:ce/aHR0cHM6Ly9kb2Js/ZWNsaWNrbmV0LmNv/bS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/MS8wMy9taW50YWth/LW5lZ3JvLTc2OHg3/NjgucG5n"
+    },
+    {
+      "id": 16,
+      "nombre": "Audifonos VSG - Gravity",
+      "descripcion": "Audífono inalámbrico multiplataforma con conexión 2.4 GHz y TRRS 3.5 mm.",
+      "precio": "350.000",
+      "cantidad": "7",
+      "imagen": "https://imgs.search.brave.com/zmTHBE0HRYdDtrYOTcFucZk6ZooEWPPdrO8ixJLy0ME/rs:fit:800:800:1/g:ce/aHR0cHM6Ly93d3cu/aW5mb3RlYy5jb20u/cGUvNDgzMzItbGFy/Z2VfZGVmYXVsdC9h/dWRpZm9uby1nYW1l/ci12c2ctZ3Jhdml0/eS1ibGFjay12Zy13/aDgwNy1ibGsuanBn"
+    },
+    {
+      "id": 17,
+      "nombre": "Audifonos VSG - Singularity",
+      "descripcion": "Audífono con sistema de audio 7.1 virtual, auriculares de 53 mm.",
+      "precio": "230.000",
+      "cantidad": "2",
+      "imagen": "https://imgs.search.brave.com/IDEYxfgJ6SjCepnv6cXrL2OUCsOEvwvw7vVOmSj70Aw/rs:fit:768:768:1/g:ce/aHR0cHM6Ly93d3cu/Y29tcHVnby5wZS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMS8w/Ni9hdWRpZm9ub3Mt/dnNnLXNpbmd1bGFy/aXR5LXdoaXRlLTEt/NzY4eDc2OC5qcGc"
+    },
+    {
+      "id": 18,
+      "nombre": "Mouse Inalambrico VSG - Fly",
+      "descripcion": "Mouse gamer inalámbrico de 2.4 GHz, 16000 DPI, 400 IPS, ultraliviano.",
+      "precio": "210.000",
+      "cantidad": "4",
+      "imagen": "https://cdn.shopify.com/s/files/1/0354/1827/5972/products/Single-Mices_1600x1600.png?v=1659633713"
+    },
+    {
+      "id": 19,
+      "nombre": "Mouse Alámbrico VSG - Aurora",
+      "descripcion": "Mouse ultraliviano de 72 g, diseño simétrico, con sensor PMW 3330.",
+      "precio": "80.000",
+      "cantidad": "16",
+      "imagen": "https://cdn.shopify.com/s/files/1/0354/1827/5972/products/Aurora-Verde-4_1600x1600.png?v=1659634042"
+    },
+    {
+      "id": 20,
+      "nombre": "Gamepad VSG - Tarvos",
+      "descripcion": "Control multiplataforma por conexión USB tipo-C, bluetooth y RF 2.4 GHz.",
+      "precio": "480.000",
+      "cantidad": "7",
+      "imagen": "https://cdn.shopify.com/s/files/1/0354/1827/5972/products/Tarvos-06_1600x1600.png?v=1659718033"
+    }
+  ]
+}
