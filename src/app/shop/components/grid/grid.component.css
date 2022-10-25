@@ -1,0 +1,15 @@
+/*
+#ffd55a
+#293250
+#6dd47e
+ */
+
+.container {
+  background-color: #ffd55a;
+}
+
+.card, .list-group-item {
+  background-color: #293250;
+  color: #FFF;
+  border: none;
+}

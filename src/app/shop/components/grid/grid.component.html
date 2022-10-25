@@ -1,7 +1,26 @@
-<div class="container text-center mt-4">
+<div class="main-page container text-center">
   <div class="row">
-    <div class="col">
-      <app-card></app-card>
+    <div *ngFor="let producto of productos" class="col">
+      <div class="card my-3" style="width: 18rem">
+        <img
+          [src]="producto.imagen"
+          class="card-img-top img-fluid"
+          [alt]="producto.nombre"
+        />
+        <div class="card-body">
+          <h5 class="card-title">{{ producto.nombre }}</h5>
+          <p class="card-text">
+            {{ producto.descripcion }}
+          </p>
+          <p class="card-text">En Stock: {{ producto.cantidad }}</p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">${{ producto.precio }} COP</li>
+        </ul>
+        <div class="card-body">
+          <a href="#" class="card-link">Ver detalles</a>
+        </div>
+      </div>
     </div>
   </div>
 </div>

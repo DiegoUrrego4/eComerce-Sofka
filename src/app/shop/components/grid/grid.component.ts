@@ -1,15 +1,12 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input } from '@angular/core';
+import { Product } from '../../interfaces/product.interface';
 
 @Component({
   selector: 'app-grid',
   templateUrl: './grid.component.html',
-  styleUrls: ['./grid.component.css']
+  styleUrls: ['./grid.component.css'],
 })
-export class GridComponent implements OnInit {
-
-  constructor() { }
-
-  ngOnInit(): void {
-  }
-
+export class GridComponent {
+  @Input() productos: Product[] = []
+  constructor() {}
 }
