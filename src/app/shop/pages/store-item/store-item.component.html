@@ -1,1 +1,23 @@
-<p>store-item works!</p>
+<section class="itemDistribution mt-5 animate__animated animate__pulse">
+  <section class="item1">
+    <img
+      class="img-thumbnail itemImage"
+      [src]="producto.imagen"
+      [alt]="producto.nombre"
+    />
+  </section>
+  <section class="item2">
+    <p>
+      {{ producto.descripcion }}
+    </p>
+    <p class="fs-3 text-center m-4">${{ producto.precio }} COP</p>
+    <section class="text-center m-5">
+      <button disabled class="btn btn-secondary btn-lg m-3">
+        Comprar ahora
+      </button>
+      <button routerLink="/store" class="btn btn-outline-info btn-lg">
+        Volver a la tienda
+      </button>
+    </section>
+  </section>
+</section>

@@ -20,7 +20,7 @@
       "id": 2,
       "nombre": "Audifonos Beats",
       "descripcion": "Audifonos Beats, para que disfrutes tu música a tu manera",
-      "precio": "780.00",
+      "precio": "780.000",
       "cantidad": "3",
       "imagen": "https://imgs.search.brave.com/6GrnCUwEt10JDgLNaGHtnalKIr7nQykWmFNnXoi7onk/rs:fit:800:800:1/g:ce/aHR0cHM6Ly9tZWRp/YS5hd3MuYWxrb3N0/by5jb20vbWVkaWEv/Y2F0YWxvZy9wcm9k/dWN0L2NhY2hlLzMv/aW1hZ2UvOGJmOWQ4/NGNjNWY2NWJkODlm/MmQ0MTYwNDA2OTg3/ZmIvby92L292ZXJl/YXItcHJvLWJsYWNr/LXJnYi10aHJxcnRs/ZWZ0LmpwZw"
     },
@@ -28,7 +28,7 @@
       "id": 3,
       "nombre": "Teclado Toshiba",
       "descripcion": "Con el Teclado Toshiba serás un maestro del juego",
-      "precio": "150.00",
+      "precio": "150.000",
       "cantidad": "7",
       "imagen": "https://imgs.search.brave.com/XkD4iX5W9yLUa3gLJwcbljFrvMZOVHk8c8gtQUbf7nc/rs:fit:600:538:1/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vdGVjbGFkby10/b3NoaWJhLWw3NDUt/czQyMTAtbDc0NS1z/ZXJpZXMtbmVncm8t/ZXNwYW5vbC1EX05R/X05QXzE0OTQyNS1N/TE0yNTQ0MDk3ODgw/NV8wMzIwMTctRi5q/cGc"
     },
@@ -52,7 +52,7 @@
       "id": 6,
       "nombre": "Roomba Robot",
       "descripcion": "¿Estás aburrido de tener que limpiar tu casa todos los días?",
-      "precio": "720.00",
+      "precio": "720.000",
       "cantidad": "32",
       "imagen": "https://imgs.search.brave.com/vhl3zdNEYtf_kE32wStu9B8nbZlb0a-szCLe59HW_FQ/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9tZWRp/YTEub2N1Lm9yZy9p/bWFnZXMvMEU3NTND/NjYwODExNTE4NDc1/M0ZFMkRGMzNGQjE0/NDJDNzVEOERCMy9j/NC9Sb2JvdHMtYXNw/aXJhZG9yZXMtSVJP/Qk9ULVJPT01CQS02/MDQtem9vbS5qcGc"
     },
@@ -60,7 +60,7 @@
       "id": 7,
       "nombre": "Televisor Samsung 55''",
       "descripcion": "Teletransportate a  nuevos mundos con el nuevo Televisor Samsung 55''",
-      "precio": "850.00",
+      "precio": "850.000",
       "cantidad": "7",
       "imagen": "https://imgs.search.brave.com/Lp0JgZ1Wc1HEMHAFhWISQwSLiL2toGggE1CUEE71pFQ/rs:fit:748:740:1/g:ce/aHR0cHM6Ly9odHRw/Mi5tbHN0YXRpYy5j/b20vdGVsZXZpc29y/LXNhbXN1bmctdW41/NWt1NjAwMC01NS1w/dWxnYWRhcy1zbWFy/dC10di00ay11bHRy/YWhkLURfTlFfTlBf/Nzg1NjEyLU1DTzMx/NTM0NTE2NDk1XzA3/MjAxOS1GLmpwZw"
     },

@@ -13,4 +13,8 @@ export class ShopService {
   buscarProductos(): Observable<Product[]> {
     return this.http.get<Product[]>(this.apiUrl);
   }
+
+  buscarProductosPorId(id: string | null): Observable<Product> {
+    return this.http.get<Product>(`${this.apiUrl}/${id}`);
+  }
 }
