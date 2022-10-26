@@ -21,7 +21,7 @@
           <li class="list-group-item">${{ producto.precio }} COP</li>
         </ul>
         <div class="card-body">
-          <a href="#" class="card-link">Ver detalles</a>
+          <button class="btn btn-secondary" [routerLink]="['/store', producto.id]">Ver detalles</button>
         </div>
       </div>
     </div>

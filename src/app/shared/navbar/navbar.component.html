@@ -1,6 +1,6 @@
-<nav class="navbar-background navbar navbar-expand-lg text-light">
+<nav class="navbar-background navbar navbar-expand-lg">
   <div class="container-fluid">
-    <a class="navbar-brand text-light" href="#">
+    <a class="navbar-brand" routerLink="">
       <img
         src="../assets/supermarketLogoRb.png"
         alt="Logo"
@@ -27,11 +27,11 @@
           routerLink=""
           [routerLinkActiveOptions]="{ exact: true }"
           routerLinkActive="active"
-          class="nav-item me-3"
+          class="nav-link active nav-item me-3 navbarLink"
         >
           Home Page
         </li>
-        <li routerLink="store" routerLinkActive="active" class="nav-item">
+        <li routerLink="store" routerLinkActive="active" class="nav-link nav-item navbarLink">
           Tienda
         </li>
       </ul>
