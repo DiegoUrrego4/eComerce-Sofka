@@ -17,7 +17,6 @@ export class StoreComponent implements OnInit {
     this.shopService.buscarProductos().subscribe({
       next: (productos) => {
         this.productos = productos;
-        console.log('PRODUCTOS', this.productos);
       },
       error: (err) => {
         this.hayError = true;

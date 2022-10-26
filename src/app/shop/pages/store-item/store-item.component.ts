@@ -17,6 +17,7 @@ export class StoreItemComponent implements OnInit {
     descripcion: '',
     imagen: '',
   };
+  hayError: boolean = false;
 
   constructor(
     private shopService: ShopService,
@@ -32,10 +33,10 @@ export class StoreItemComponent implements OnInit {
     this.shopService.buscarProductosPorId(id).subscribe({
       next: (producto) => {
         this.producto = producto;
-        console.log('PROD', this.producto);
       },
       error: (err) => {
-        console.log('ERROR');
+        console.error('ERROR', err);
+        this.hayError = true;
       },
     });
   }
